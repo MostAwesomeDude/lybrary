@@ -1,0 +1,10 @@
+\relative bes' {
+  r8 bes4 g8 c4. bes8 |
+  r g d'2 es8 d |
+  r bes4 g8 d' es d c |
+  bes g gis a r bes4 g8 |
+  c4. bes8 r g bes4 |
+  r8 bes4 g8 es' d bes c |
+  r4 r8 g r bes4 g8 |
+  d'4. c8 d c a f |
+}
