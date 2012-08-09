@@ -1,0 +1,6 @@
+\key b \major
+\time 4/4
+\relative b' {
+  b b, a'   b, gis' b, a' b, gis' b, fis' b' gis' b,
+  e b  fis' b, dis  b  e  b  dis  b  e    b  dis  b
+}
