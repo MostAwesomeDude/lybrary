@@ -1,0 +1,10 @@
+\relative d {
+    d8 d fis d a' d, b' d,
+    e' d, fis d d d d cis~
+    cis cis e cis gis' cis, a' cis,
+    gis' cis, e cis c es c b~
+    b b d b fis' b, gis' b
+    fis' b, d b b b b a~
+    a a a' a, gis' a, a e'
+    a, a fis' a, a e' cis d
+}
