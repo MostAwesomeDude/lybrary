@@ -1,0 +1,9 @@
+\key e \major
+\relative e''' {
+    \times 2/3 {
+        e8 dis b dis b a b a fis a fis e
+        fis e cis e cis b cis b gis b gis fis
+    }
+    gis2~ gis8 a gis fis~
+    fis2 e4 dis
+}
