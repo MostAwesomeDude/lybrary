@@ -1,0 +1,10 @@
+\relative a, {
+    <a e' gis cis>1
+    <b fis' a d>
+    <cis gis' b e>
+    <cis fis a e'>
+    <b fis' a d>~
+    <b fis' a d>
+    <b e a d>
+    <b e gis d'>
+}
