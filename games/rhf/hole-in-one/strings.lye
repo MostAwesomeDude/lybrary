@@ -1,5 +1,5 @@
 \relative a, {
-    <a e' gis cis>1
+    <a1 e' gis cis>
     <b fis' a d>
     <cis gis' b e>
     <cis fis a e'>
