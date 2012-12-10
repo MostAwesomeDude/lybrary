@@ -1,4 +1,10 @@
-\relative a, {
+\relative a,, {
   a2 e'4. a8~
-  a2 e4. a,8
+  a2 e4. a,8~
+  a2 e'4. a8~
+  a2 cis,4. b8~
+  b2 fis'4. b8~
+  b2 fis4. b,8~
+  b2 fis'4. b8~
+  b2 ais,4. a8
 }
