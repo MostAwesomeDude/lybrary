@@ -1,0 +1,4 @@
+\relative a, {
+  a2 e'4. a8~
+  a2 e4. a,8
+}
