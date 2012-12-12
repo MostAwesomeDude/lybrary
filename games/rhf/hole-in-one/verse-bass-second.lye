@@ -1,12 +1,4 @@
 \relative a,, {
-  a4 e'8. a16~ a4 e8. a,16~
-  a4 e'8. a16~ a4 cis,8. b16~
-  b4 fis'8. b16~ b4 fis8. b,16~
-  b4 fis'8. b16~ b4 ais,8. a16~
-  a4 e'8. a16~ a4 e8. a,16~
-  a4 e'8. a16~ a4 cis,8. b16~
-  b4 fis'8. b16~ b4 fis8. b,16~
-  b4 fis'8. b16~ b4 bis,8. cis16~
   cis4 gis'8. cis16~ cis4 gis8. cis,16~
   cis4 gis'8. cis16~ cis4 g,8. fis16~
   fis4 cis'8. fis16~ fis4 cis8. fis,16~
