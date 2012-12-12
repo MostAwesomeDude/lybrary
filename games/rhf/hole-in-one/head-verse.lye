@@ -1,0 +1,11 @@
+\relative e' {
+  \partial 4. e8 a b
+  d4. cis8 cis2~
+  cis4. cis8 d cis b a
+  fis4. b8 r2
+  r r8 e, a b
+  d4. cis8 cis2~
+  cis4. cis8 d cis b a
+  fis'8. fis e8 e2~
+  e r8
+}
