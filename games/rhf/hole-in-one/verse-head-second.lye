@@ -1,0 +1,12 @@
+\relative d'' {
+    \partial 4 d4
+    cis16 cis8 cis a cis16~ cis2
+    cis16 cis8 cis a cis16~ cis4 b
+    a16 a8 a b cis fis,4..
+    r1
+    fis16 fis fis fis r gis r a r gis r fis r e r8
+    a16 a a a r b cis fis,16~ fis2
+    d'16 d d d r d r d8. cis8 b a
+    cis2 b
+    r1
+}
