@@ -1,19 +1,19 @@
-\relative a, {
+\relative a,, {
   a4    e'8.   a4   e16    e8   a
   gis,4 dis'8. gis4 cis,16 cis8 g
   fis4  cis'8. fis4 cis16  cis8 fis
-  fis4  cis'8. fis4 cis16  cis8 ais
+  fis,4 cis'8. fis4 cis16  cis8 ais
   b4    fis'8. b4   ais,16 ais8 fis'
-  a4    fis'8. a4   gis,16 gis8 d'
+  a,4   fis'8. a4   gis,16 gis8 d'
   g,4   d'8.   g4   d16    d8   g
   e,4   b'8.   e4   b16    b8   e
 
-  a4    e'8.   a4   e16    e8   a
+  a,4    e'8.   a4   e16    e8   a
   gis,4 dis'8. gis4 cis,16 cis8 g
-  fis4  cis'8. fis4 g,16   g8   cis'
-  a4    e'8.   g4   e16    e8   cis
+  fis4  cis'8. fis4 cis16  cis8 fis
+  a,4   e'8.   g4   e16    e8   cis
   d4    a'8.   d4   a16    a8   d
-  b4    fis'8. b4   fis16  fis8 b
-  g,4   d'8.   g4   d16    d8   g
+  d,4   a'8.   d4   a16    a8   d
+  e,,4  b'8.   e4   b16    b8   e
   e,4   b'8.   e4   b16    b8   e
 }
